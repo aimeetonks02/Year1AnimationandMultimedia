@@ -1,0 +1,21 @@
+"Keele Interaction" animation made by
+Student ID 2101039801. Featuring
+Media:
+Images: Sprite and Background
+images hand-drawn using Procreate on
+an IPad Pro
+Sound: MP3 file of chatter and walking from
+https://sound-effects.bbcrewind.co.uk/
+Animation:
+Two-scene sketch
+Scene 1: Control of a scrolling 6-pose sprite and
+background with stationary foreground, Principles of
+animation (Appeal, Squash and Stretch,
+Arcs, Secondary Action [Bouncing hair and antenna,
+swinging arms])
+Scene 2: Verticle scrolling credits
+with centred text
+Programming:
+Processing sketch using PImage, Arrays,
+Modular Arithmetic, Sound Library, for loops,
+if-else statements

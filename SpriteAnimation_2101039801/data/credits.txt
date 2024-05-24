@@ -1,0 +1,19 @@
+Sprite animation made by CSC-10026
+Student ID 2101039801. Featuring
+Media:
+Images: Sprite and Background
+images hand-drawn using Procreate on
+an IPad Pro
+Sound: MP3 file of gravel crunching from
+https://sound-effects.bbcrewind.co.uk/
+Animation:
+Two-scene sketch
+Scene 1: Control of 14-pose sprite and
+scrolling background, Principles of
+animation (Appeal, Squash and Stretch,
+Arcs, Secondary Action [Bouncing hair])
+Scene 2: Verticle scrolling credits
+with centred text
+Programming:
+Processing sketch using PImage, Arrays,
+Modular Arithmetic, Sound Library
